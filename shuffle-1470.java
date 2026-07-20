@@ -1,4 +1,4 @@
-class Solution {
+class shuffle {
     public int[] shuffle(int[] nums, int n) {
         int[] result=new int[2*n];
         int index=0;
