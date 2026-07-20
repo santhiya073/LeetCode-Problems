@@ -1,4 +1,4 @@
-class Solution {
+class Palindrome {
     public boolean isPalindrome(int x) {
         // Negative numbers cannot be palindromes (e.g., -121 reversed is 121-)
         if (x < 0) {
