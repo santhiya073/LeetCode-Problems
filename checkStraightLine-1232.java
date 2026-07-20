@@ -1,4 +1,4 @@
-class Solution {
+class checkStraightLine  {
     public boolean checkStraightLine(int[][] coordinates) {
 
         int x1 = coordinates[0][0];
